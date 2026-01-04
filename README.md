@@ -11,3 +11,5 @@ At the end, user is not only provided with the link but a structured response wh
 2. Run the main.py which will call find jobs method responsible to read the file sent via upload file from UI, loads the agent and construct Multimodal Message to be passed as content.
 3. Run the streamlit_app.py to run the UI and upload the resume.
 
+<img width="2354" height="1213" alt="image" src="https://github.com/user-attachments/assets/928ec8ad-ec72-4bb2-b48e-2da34443e537" />
+<img width="2354" height="1213" alt="image" src="https://github.com/user-attachments/assets/1ccee91f-36f8-4ba8-942a-a190a8b46ac4" />
